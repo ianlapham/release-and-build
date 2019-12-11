@@ -1,5 +1,5 @@
 name: "Automatic Release With Assets"
-author: "marvinpinto"
+author: "ianlapham"
 description: "Automate the GitHub release process with assets, changelogs, pre-releases, and more"
 inputs:
   repo_token:
