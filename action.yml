@@ -1,4 +1,4 @@
-name: "Automatic Releases"
+name: "Automatic Release With Assets"
 author: "marvinpinto"
 description: "Automate the GitHub release process with assets, changelogs, pre-releases, and more"
 inputs:
